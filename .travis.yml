@@ -4,6 +4,8 @@ node_js:
 notifications:
   email: false
 deploy:
+  on:
+    branch: main
   provider: elasticbeanstalk
   access_key_id: AKIAJCC45WY2ETHOOVVA
   secret_access_key:
