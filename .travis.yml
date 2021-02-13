@@ -13,4 +13,4 @@ deploy:
   region: 'us-east-1'
   app: 'test-node-app'
   env: 'Testnodeapp-env'
-  bucket_name: 'test-node-S3-bucket'
+  bucket_name: 'vj-test-node-s3-bucket'
